@@ -1,4 +1,4 @@
 {
     "plugins": ["mermaid-md-adoc"],
-    "root": "./book_content"
+    "root": "./content"
 }
